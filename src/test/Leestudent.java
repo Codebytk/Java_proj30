@@ -9,6 +9,8 @@ public class Leestudent {
 		System.out.println(" 저는 24살이고");
 		System.out.println(" 국비지원 코딩으로 취업하기 위해");
 		System.out.println(" 열심히 노력하고 있습니다.");
+		System.out.println(" 남아서 누구보다 조금 더 많이하고 노력하고 있습니다.");
+		
 	}
 
 }
